@@ -23,21 +23,26 @@ Blogs often include text, images, and sometimes videos to engage and inform read
 
 Pull requests are welcome. <br>
 For major changes, please open an issue first to discuss what you  would like to change. <br>
-Setup & Installation 
-To run this project, perform the following tasks 
-Download the code file manually or via git
 
-**Getting Started**   
+**Setup & Installation**  <br>
 
-To get started with BLOGIFYPRO, follow these steps:
-Step 1: Clone the repository
-Step 2: Install the necessary dependencies
-Step 3: Configure your API keys and credentials
-Step 4: Build and run the app
-Features
-Responsive Design: Ensures seamless user experience across devices.
-Rich Media Support: Allows embedding of text, images, and videos.
-User-Friendly Navigation: Intuitive interface for easy exploration.
-Categorized Content: Organizes posts into relevant categories.
-Search Function: Facilitates quick access to specific topics.
-Author Profiles: Introduces authors and their expertise
+To run this project, perform the following tasks : <br> 
+
+Download the code file manually or via git.<br>
+
+**Getting Started**   <br>
+
+To get started with BLOGIFYPRO, follow these steps:<br>
+Step 1: Clone the repository <br>
+Step 2: Install the necessary dependencies <br>
+Step 3: Configure your API keys and credentials <br>
+Step 4: Build and run the app<br>  
+
+**Features** <br>
+
+Responsive Design: Ensures seamless user experience across devices. <br>
+Rich Media Support: Allows embedding of text, images, and videos.<br>
+User-Friendly Navigation: Intuitive interface for easy exploration.<br>
+Categorized Content: Organizes posts into relevant categories.<br>
+Search Function: Facilitates quick access to specific topics.<br>
+Author Profiles: Introduces authors and their expertise<br>
