@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+//Model
 const CategorySchema = mongoose.Schema({
     name: {
         type: String,
