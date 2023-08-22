@@ -3,7 +3,7 @@ various topics. These topics can range from personal experiences and  hobbies to
 
 Blogs often include text, images, and sometimes videos to engage and inform readers. Bloggers create posts, which are individual articles, and organize them based on categories or tags. Blogging has become a popular way to share knowledge, connect with audiences, and even earn income through advertising, sponsorships, and other monetization strategies.
 
-##Introduction 
+**Introduction**
 
 • The primary objective of this blog website is to provide a platform for individuals to share their knowledge, experiences, and insights on a wide range of topics. Through a collection of well-crafted posts, we aim to create an engaging and informative space that caters to diverse interests and perspectives. <br>
 • This application can used for sharing information and reading daily<br> 
@@ -18,14 +18,15 @@ Blogs often include text, images, and sometimes videos to engage and inform read
 => Backend:<br>
  Nodejs, Expressjs.<br>
 => Database:<br>
- Mongo db.<br> <br>
-**__Contributing__**<br>
+ Mongo db.
+ 
+**__Contributing__**
 Pull requests are welcome. <br>
 For major changes, please open an issue first to discuss what you  would like to change. <br>
 Setup & Installation 
 To run this project, perform the following tasks 
 Download the code file manually or via git
-Author mai tera name made by you 
+
 Getting Started
 To get started with BLOGIFYPRO, follow these steps:
 Step 1: Clone the repository
