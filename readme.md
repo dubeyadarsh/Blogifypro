@@ -6,12 +6,11 @@ Blogs often include text, images, and sometimes videos to engage and inform read
 **Introduction**
 
 • The primary objective of this blog website is to provide a platform for individuals to share their knowledge, experiences, and insights on a wide range of topics. Through a collection of well-crafted posts, we aim to create an engaging and informative space that caters to diverse interests and perspectives. <br>
-• This application can used for sharing information and reading daily<br> 
-• Articles related to any topics.<br>
+• This application can used for sharing information and reading daily articles related to any topics.<br>
 • This application is safe and secure after article posting by user it analyse by admin then only it will reflect on application.<br>
 • It provides useful information to users through articles and videos.<br>
 
-##Technology used:
+**Technology used:**
 • This application made using latest technology:<br>
 => Frontend: <br>
  React, Bootstrap.<br>
@@ -20,14 +19,16 @@ Blogs often include text, images, and sometimes videos to engage and inform read
 => Database:<br>
  Mongo db.
  
-**__Contributing__**
+**__Contributing__** 
+
 Pull requests are welcome. <br>
 For major changes, please open an issue first to discuss what you  would like to change. <br>
 Setup & Installation 
 To run this project, perform the following tasks 
 Download the code file manually or via git
 
-Getting Started
+**Getting Started**   
+
 To get started with BLOGIFYPRO, follow these steps:
 Step 1: Clone the repository
 Step 2: Install the necessary dependencies
