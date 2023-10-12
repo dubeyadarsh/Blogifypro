@@ -24,6 +24,12 @@ const StyledLink = styled(Link)`
 const Categories = () => {
     const [searchParams] = useSearchParams();
     const category = searchParams.get('category');
+
+
+
+
+
+
     
     return (
         <>
@@ -58,5 +64,13 @@ const Categories = () => {
         </>
     )
 }
+
+
+
+
+
+const Categories = () => {
+    const [searchParams] = useSearchParams();
+    const category = searchParams.get('category');
 
 export default Categories;
